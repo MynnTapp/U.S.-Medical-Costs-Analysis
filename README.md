@@ -1,12 +1,15 @@
-📊 US Medical Insurance Data Analysis
-📁 Project Overview
+# 📊 US Medical Insurance Data Analysis
+
+
+## 📁 Project Overview
 
 This project explores a U.S. medical insurance dataset using Python and Jupyter Notebook. The dataset includes key information such as a person's age, sex, BMI, number of children, smoking status, region, and insurance charges.
 
 The goal of this analysis is to uncover trends and relationships between these variables — such as how smoking status, gender, or region affect insurance costs or health factors like BMI.
-🎯 Objectives
 
-The following questions are investigated:
+## 🎯 Objectives
+
+### The following questions are investigated:
 
     Do people in the Southwest smoke more than people in the Northwest?
 
@@ -28,7 +31,7 @@ The following questions are investigated:
 
     Are there more male smokers than female smokers?
 
-🧰 Tools & Libraries
+## 🧰 Tools & Libraries
 
 This project uses the following tools:
 
@@ -37,7 +40,7 @@ This project uses the following tools:
     Jupyter Notebook
 
 
-📂 Dataset
+## 📂 Dataset
 
 The dataset used is publicly available and contains the following columns:
 
@@ -56,7 +59,8 @@ The dataset used is publicly available and contains the following columns:
     charges: Medical insurance cost
 
 Note: The dataset is included in the project as insurance.csv.
-📝 How to Run
+
+## 📝 How to Run
 
     Clone this repository or download the .ipynb file.
 
@@ -66,7 +70,7 @@ Note: The dataset is included in the project as insurance.csv.
 
     Open the notebook file and run the cells one by one.
 
-📌 Future Work
+## 📌 Future Work
 
 Possible extensions of this project could include:
 
@@ -78,7 +82,7 @@ Possible extensions of this project could include:
 
     Data storytelling dashboards with tools like Plotly or Tableau
 
-👩🏽‍💻 Author
+### 👩🏽‍💻 Author
 
 Desmynn Tappin
 Software Engineer | Learning Python & Data Science
