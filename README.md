@@ -84,5 +84,4 @@ Possible extensions of this project could include:
 
 ### 👩🏽‍💻 Author
 
-Desmynn Tappin
-Software Engineer | Learning Python & Data Science
+Desmynn Tappin | Software Engineer | Learning Python & Data Science
